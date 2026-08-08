@@ -1,51 +1,59 @@
 <div align="center">
-  <img src="assets/makima.png" alt="Makima" width="100%" />
 
-  <h1 align="center">Hi there, I'm <a href="https://github.com/DmT-24">DmT_24</a>! 💻</h1>
-  
-  <p align="center">
-    <i>Hardware Engineer / Tech Enthusiast</i>
-  </p>
+# DmT-24! 💻
 
-  <p align="center">
-    <a href="https://github.com/DmT-24">
-      <img src="https://img.shields.io/github/followers/DmT-24?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-  </p>
+### Hardware Engineer
+
+<img src="https://komarev.com/ghpvc/?username=DmT-24&label=Profile%20Views&color=4C8EDA&style=flat" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## <img src="./assets/makima.png" width="35"> About Me
 
-- 👤 **Name:** Trong
-- 📧 **Email:** [duongminhtronglxag@gmail.com](mailto:duongminhtronglxag@gmail.com)
-- ⚙️ **Role:** Hardware Engineer
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode&perline=10" />
-  </a>
-</p>
+```yaml
+Name  : Trong
+Role  : Hardware Engineer
+Email : duongminhtronglxag@gmail.com
+```
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DmT-24's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmT-24&theme=tokyonight&hide_border=true&background=0D1117" alt="DmT-24's GitHub Streak" />
-  <br />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,vscode,git,github" />
+
 </div>
 
 ---
 
+## 📊 GitHub Activity & Stats
+
 <div align="center">
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="32%" src="https://streak-stats.demolab.com?user=DmT-24&theme=tokyonight&hide_border=true"/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:duongminhtronglxag@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DmT-24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>

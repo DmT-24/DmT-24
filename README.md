@@ -32,15 +32,15 @@ Email : duongminhtronglxag@gmail.com
 
 ## 📊 GitHub Activity & Stats
 
-<div align="center">
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="32%" src="https://streak-stats.demolab.com?user=DmT-24&theme=tokyonight&hide_border=true"/>
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" alt="DmT-24's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmT-24&theme=tokyonight&hide_border=true&background=0D1117&v=4" alt="DmT-24's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" alt="Top Languages" />
+</p>
 
 ---
 

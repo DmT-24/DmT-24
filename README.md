@@ -4,7 +4,7 @@
   <h1 align="center">Hi there, I'm <a href="https://github.com/DmT-24">DmT_24</a>! 💻</h1>
   
   <p align="center">
-    <i>Passionate Developer / Tech Enthusiast / Lifelong Learner</i>
+    <i>Hardware Engineer / Tech Enthusiast</i>
   </p>
 
   <p align="center">
@@ -18,11 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 💬 Ask me about **Tech, Development, and more!**
-- 📫 How to reach me: **[duongminhtronglxag@gmail.com](mailto:duongminhtronglxag@gmail.com)**
-- ⚡ Fun fact: **I love coding!**
+- 👤 **Name:** Trong
+- 📧 **Email:** [duongminhtronglxag@gmail.com](mailto:duongminhtronglxag@gmail.com)
+- ⚙️ **Role:** Hardware Engineer
 
 ---
 

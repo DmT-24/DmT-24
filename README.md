@@ -39,11 +39,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DmT-24's GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DmT-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DmT-24's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmT-24&theme=tokyonight&hide_border=true&background=0D1117" alt="DmT-24's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DmT-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---

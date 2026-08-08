@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="./assets/makima.png" width="35"> About Me
+## <img src="./assets/about-icon.jfif" width="45" align="absmiddle"> About Me
 
 ```yaml
 Name  : Trong

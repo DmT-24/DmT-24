@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="assets/makima.png" alt="Makima" width="100%" />
 
   <h1 align="center">Hi there, I'm <a href="https://github.com/DmT-24">DmT_24</a>! 💻</h1>
   

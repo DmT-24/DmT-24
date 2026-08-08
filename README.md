@@ -10,13 +10,16 @@
 
 ---
 
-## <img src="./assets/about-icon.png" width="45" align="absmiddle"> About Me
+<h2><img src="./assets/about-icon.jfif" width="42"> About Me</h2>
 
-### 👤 **Name:** Trong
-### ⚙️ **Role:** Hardware Engineer
-### 📧 **Email:** duongminhtronglxag@gmail.com
-
----
+<p>
+<b>👤 Name</b> : Trong
+<br>
+<b>⚙️ Role</b> : Hardware Engineer
+<br>
+<b>📧 Email</b> :
+<a href="mailto:duongminhtronglxag@gmail.com">duongminhtronglxag@gmail.com</a>
+</p>
 
 ## 🛠️ Tech Stack & Tools
 

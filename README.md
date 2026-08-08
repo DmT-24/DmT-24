@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://i.pinimg.com/originals/82/4c/75/824c75d5d8baddac1e3ab99a48b77f36.gif" width="100%" alt="Anime Header GIF" />
 
   <h1 align="center">Hi there, I'm <a href="https://github.com/DmT-24">DmT_24</a>! 💻</h1>
   
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
 </div>

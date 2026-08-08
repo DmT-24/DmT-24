@@ -10,13 +10,11 @@
 
 ---
 
-## <img src="./assets/about-icon.jfif" width="45" align="absmiddle"> About Me
+## <img src="./assets/about-icon.png" width="45" align="absmiddle"> About Me
 
-```yaml
-Name  : Trong
-Role  : Hardware Engineer
-Email : duongminhtronglxag@gmail.com
-```
+### 👤 **Name:** Trong
+### ⚙️ **Role:** Hardware Engineer
+### 📧 **Email:** duongminhtronglxag@gmail.com
 
 ---
 
